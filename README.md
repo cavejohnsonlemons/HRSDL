@@ -1,6 +1,1 @@
-HRSDL
-=====
-
-HRSDL, as made by a member
-
-the wiki is a little bare, please bear with me!
+MOVED TO ASSEMBLA, PLEASE CHECK HA FORUM FOR MORE INFORMATION, AND TO REQUEST ACCESS
